@@ -29,8 +29,8 @@
   --middle-brightness: 0.6;
   --right-brightness: 0;
   --popout-modal-brightness: 0.6;
-  --gradient-primary: #2780e6;
-  --gradient-secondary:  #1e63b3;
+  --gradient-primary: rgba(77, 0, 0);
+  --gradient-secondary:  rgba(72, 0, 167);
 --link-colour: #400074;
   --scrollbar-colour: rgba(106, 1, 52, 0.582);
   --gradient-direction: 320deg;
@@ -38,7 +38,7 @@
   --window-padding: 0px;
   --window-roundness: 0px;
   --update-notice-1: none;
-  --columns: 2;
+  --columns: 1;
   --guildgap: 2;
   --aligndms: 0;
   --rs-small-spacing: 0px;
