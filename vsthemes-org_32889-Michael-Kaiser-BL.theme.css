@@ -29,11 +29,11 @@
   --middle-brightness: 0.6;
   --right-brightness: 0;
   --popout-modal-brightness: 0.6;
-  --gradient-primary:33, 33, 33;
-  --gradient-secondary:102, 1, 1;
+  --gradient-primary: 33, 33, 33;
+  --gradient-secondary: 48, 0, 48;
 --link-colour: #400074;
   --scrollbar-colour: rgba(106, 1, 52, 0.582);
-  --gradient-direction: 150deg;
+  --gradient-direction: 320deg;
   --font: Quicksand;
   --window-padding: 0px;
   --window-roundness: 0px;
