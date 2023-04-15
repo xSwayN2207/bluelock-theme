@@ -29,8 +29,8 @@
   --middle-brightness: 0.6;
   --right-brightness: 0;
   --popout-modal-brightness: 0.6;
-  --gradient-primary: rgba(77, 0, 0);
-  --gradient-secondary:  rgba(72, 0, 167);
+  --gradient-primary: rgb(33, 33, 33, 1);
+  --gradient-secondary:  rgb(102, 1, 1, 1);
 --link-colour: #400074;
   --scrollbar-colour: rgba(106, 1, 52, 0.582);
   --gradient-direction: 320deg;
